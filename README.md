@@ -1,2 +1,21 @@
-# flying-main-game
-A game of flying through obstacles
+# The Flying Man Game
+
+## Overview
+This game allows a user to fly through obstacles from top and bottom by using up and down arrow keys. User remains stationary while the obstacles streak through the page from right to left. With the user in the middle of the frame, this creates the illusion that the user is flying through the obstacles. Using wins after the game countsdown to zero without running into any obstacles.
+
+## User Stories
+As a player, I want to be able to:
+
+- start the game by pressing a button
+- use the up and down arrow keys to play the game
+- see a countdown timer to when the game ends
+- see the status of the game when it ends
+- see a status message when the game ends
+- see a status message when I collide with obstacle
+- play, pause and end the game by clicking a button
+- reset the game after it ends
+
+## Wireframes / Screenshots
+![Wifeframe](https://i.imgur.com/kBvFUsa.png)
+
+## Entity Relationship Diagrams
