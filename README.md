@@ -18,4 +18,11 @@ As a player, I want to be able to:
 ## Wireframes / Screenshots
 ![Wifeframe](https://i.imgur.com/kBvFUsa.png)
 
-## Entity Relationship Diagrams
+## Plan
+- Day 1: Start with pseudo code for the project and plan in detail how to accomplish the project objectives
+
+- Day 2: Build initial HTML/CSS elements of the project
+
+- Day 3-4: Start building JS code for project
+
+- Day 5: Testing
