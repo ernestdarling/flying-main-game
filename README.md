@@ -16,7 +16,16 @@ As a player, I want to be able to:
 - reset the game after it ends
 
 ## Wireframes / Screenshots
-![Wifeframe](https://i.imgur.com/kBvFUsa.png)
+### Runtime state
+![Wifeframe 1](https://i.imgur.com/kBvFUsa.png)
+
+### Game lost state
+![Wireframe 2](https://i.imgur.com/o6iYtIx.png)
+
+### Game won state
+![Wireframe 2](https://i.imgur.com/9ZFueq5.png)
+
+
 
 ## Plan
 - Day 1: Start with pseudo code for the project and plan in detail how to accomplish the project objectives
